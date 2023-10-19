@@ -1,2 +1,2 @@
-rootProject.name = "java-kata-bootstrap"
+rootProject.name = "mars-rover-kata"
 
